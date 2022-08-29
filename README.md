@@ -19,4 +19,4 @@ Cards are sorted by suit (Spade, Heart, Diamond, Club), then by number, (A, K, Q
 The extension exercise for the coding interview requires that the points by suit are available in your app, even if not shown to the user.
 Bridge is played with a standard deck of cards. It has 52 cards, one for every number in every suit.
 
-![image](https://user-images.githubusercontent.com/7554386/187305213-32a2e05b-1f31-411b-812c-32d28a1c7da2.png)
+![image](https://user-images.githubusercontent.com/7554386/187306239-8a1fb75d-8c55-4a36-bfa9-49b98ac83222.png)
