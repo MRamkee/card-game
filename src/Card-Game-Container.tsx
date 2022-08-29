@@ -114,7 +114,7 @@ export const CardgameContainer = () => {
           <p>{eastPoints}</p>
         </div>
       </div>
-      <div className="row">
+      <div className="row" style={{ marginTop: "50px" }}>
         <div
           id="south"
           className={`box1 ${
