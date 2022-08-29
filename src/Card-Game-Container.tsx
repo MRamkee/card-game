@@ -89,7 +89,7 @@ export const CardgameContainer = () => {
           <p>{northPoints}</p>
         </div>
       </div>
-      <div className="row">
+      <div className="row" style={{ marginTop: "50px" }}>
         <div
           id="west"
           className={`box2 ${
